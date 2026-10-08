@@ -157,8 +157,9 @@ fun CropScreen(
                     FilledTonalButton(
                         onClick = {
                             val rectF = RectF(cropLeft, cropTop, cropRight, cropBottom)
-                            val cropped = ImageProcessing.cropBitmapNormalized(filteredBitmap, rectF)
-                            onScanNextPage(cropped)
+                            val croppedRaw = ImageProcessing.cropBitmapNormalized(baseBitmap, rectF)
+                            val finalEnhanced = ImageProcessing.applyFilter(croppedRaw, selectedFilter)
+                            onScanNextPage(finalEnhanced)
                         },
                         shape = RoundedCornerShape(10.dp),
                         contentPadding = PaddingValues(horizontal = 10.dp, vertical = 6.dp),
@@ -183,8 +184,9 @@ fun CropScreen(
                     Button(
                         onClick = {
                             val rectF = RectF(cropLeft, cropTop, cropRight, cropBottom)
-                            val cropped = ImageProcessing.cropBitmapNormalized(filteredBitmap, rectF)
-                            onProceedToPreview(cropped)
+                            val croppedRaw = ImageProcessing.cropBitmapNormalized(baseBitmap, rectF)
+                            val finalEnhanced = ImageProcessing.applyFilter(croppedRaw, selectedFilter)
+                            onProceedToPreview(finalEnhanced)
                         },
                         colors = ButtonDefaults.buttonColors(
                             containerColor = MaterialTheme.colorScheme.primary
