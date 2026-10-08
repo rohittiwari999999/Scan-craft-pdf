@@ -1,0 +1,53 @@
+================================================================================
+GOOGLE PLAY STORE LISTING DETAILS
+================================================================================
+
+App Title (max 30 characters):
+ScanCraft PDF Scanner
+
+Short Description (max 80 characters):
+Scan documents, adjust edges, export A4/A5/Letter PDFs & share to WhatsApp fast.
+
+Full Description (max 4000 characters):
+ScanCraft PDF is a fast, powerful, and privacy-first document scanner that turns your smartphone into a portable pocket scanner.
+
+Whether you need to digitize receipts, business contracts, tax invoices, class notes, or personal ID documents, ScanCraft PDF delivers crisp, professional-grade results in seconds.
+
+✨ KEY FEATURES:
+
+📸 High-Definition Camera & Gallery Scanner
+• Capture documents directly using your camera with automatic lighting adaptation.
+• Import multi-page document images directly from your gallery photo library.
+• One-tap instant document sample tester.
+
+✂️ Interactive Edge Cropping & Perspective Alignment
+• Intuitive 4-corner perspective and edge pins to fine-tune document boundaries.
+• Built-in alignment grid for perfectly straight document borders.
+• 90° Clockwise and Counter-Clockwise rotation tools.
+• Preset aspect ratios: Free Crop, Standard A4 (1:1.41), US Letter (8.5:11), and 1:1.
+
+🎨 Intelligent Document Filters
+• Magic Color: Boosts contrast and saturation for badges, certificates, and colored diagrams.
+• B&W Document: Cleans up gray paper backgrounds and produces deep, sharp black text.
+• Grayscale: Smooth monochrome tones ideal for receipts and contracts.
+• Original: Preserves original photo capture details.
+
+📄 Multi-Size PDF Export Engine
+• Customize your document output paper size:
+  - A4 (210 × 297 mm / 595 × 842 pt)
+  - A5 (148 × 210 mm / 420 × 595 pt)
+  - US Letter (8.5 × 11 in / 612 × 792 pt)
+• Live PDF preview canvas displaying exact margins and paper aspect ratios.
+• Rename documents and manage multi-page files effortlessly.
+
+📲 Instant WhatsApp & System Sharing
+• Dedicated one-tap WhatsApp share button to send PDFs directly to chats and business clients.
+• Universal Android system share support (Google Drive, Gmail, Telegram, Bluetooth, etc.).
+• Automatic local backup to app storage and device Downloads folder.
+
+🔒 100% Private & Offline First
+• All document processing, edge cropping, and PDF rendering happen locally on your device.
+• No logins, no trackers, and no external servers touching your sensitive documents.
+
+Download ScanCraft PDF today and experience effortless document scanning and sharing!
+================================================================================

@@ -1,0 +1,19 @@
+{
+  "appName": "ScanCraft PDF Scanner",
+  "applicationId": "com.aistudio.scancraftpdf.kmzqwa",
+  "versionCode": 1,
+  "versionName": "1.0",
+  "minSdkVersion": 24,
+  "targetSdkVersion": 36,
+  "compileSdkVersion": 36,
+  "category": "Productivity / Business / Tools",
+  "containsAds": false,
+  "files": {
+    "aabBundle": "ScanCraft_v1.0.aab",
+    "apkInstaller": "ScanCraft_v1.0.apk",
+    "icon512": "icon_512x512.png",
+    "featureGraphic": "feature_graphic_1024x500.png",
+    "storeListing": "store_listing.txt",
+    "privacyPolicy": "privacy_policy.md"
+  }
+}

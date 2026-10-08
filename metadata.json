@@ -1,0 +1,6 @@
+{
+  "name": "ScanCraft PDF",
+  "description": "Scan documents, crop and adjust edges, preview and export custom-sized PDFs (A4, A5, Letter) and share to WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
